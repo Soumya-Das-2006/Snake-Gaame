@@ -61,7 +61,7 @@ snake-game/
 ---
 
 ## 📸 Screenshot
-![Snake Game Screenshot]
+**Snake Game Screenshot**
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4c2324f2-6e84-482d-853e-626d89df1abf" />
 
 ---
